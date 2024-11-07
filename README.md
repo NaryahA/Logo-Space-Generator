@@ -11,3 +11,5 @@ SO THAT I don't have to pay a graphic designer
 
 ## Links
 https://github.com/NaryahA/Logo-Space-Generator
+
+https://drive.google.com/file/d/10Iz2b50Uyv24z6bQ8SQ4OWqQyhxaAh_P/view
