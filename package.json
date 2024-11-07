@@ -1,0 +1,30 @@
+{
+  "name": "Logo-Space-Generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "start": "node index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaryahA/Logo-Space-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaryahA/Logo-Space-Generator/issues"
+  },
+  "homepage": "https://github.com/NaryahA/Logo-Space-Generator#readme",
+  "dependencies": {
+    "inquirer": "^12.0.1",
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
